@@ -1,9 +1,7 @@
 
 # PySocs
 
-<img src="PySocs_square_banner.png" alt="PySocs Square Banner" width="200"/>
-
-![PySocs Banner](PySocs_banner.png)
+<img src="PySocs_square_banner.png" alt="PySocs Square Banner" width="400"/>
 
 ## Course Description
 
